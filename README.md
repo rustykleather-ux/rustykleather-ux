@@ -96,7 +96,6 @@ A Python-based Windows security assessment platform that performs comprehensive 
 
 ## 🌐 Community Involvement
 
-* SecKC Member
 * Security Awareness Advocate
 * Active Cybersecurity Community Participant
 * Continuous Security Research & Learning
