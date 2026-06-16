@@ -12,7 +12,7 @@
 ![Blue Team](https://img.shields.io/badge/Blue-Team-005A9C)
 ![Risk Assessment](https://img.shields.io/badge/Risk-Assessment-darkred)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github\&logoColor=white)
-![SecKC](https://img.shields.io/badge/SecKC-Member-purple)
+
 
 ---
 
