@@ -132,7 +132,7 @@ A Python-based Windows security assessment platform that performs comprehensive 
 
 ## 📫 Connect With Me
 
-* LinkedIn
+* LinkedIn(www.linkedin.com/in/rusty-folsom-b78a5319)
 * GitHub
 * Cybersecurity Community Events
 
