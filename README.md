@@ -1,4 +1,4 @@
-# Hi, I'm Rusty Folsom 👋
+# Rusty Folsom 👋
 
 ### Cybersecurity Professional | IT Leader | Security Automation Enthusiast
 
