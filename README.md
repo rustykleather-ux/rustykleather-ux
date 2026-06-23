@@ -92,6 +92,8 @@ A Python-based Windows security assessment platform that performs comprehensive 
 
 **Technologies:** Python, PowerShell, Windows Security APIs
 
+---
+
 ### 🎣 Phishing Email Analyzer
 
 A Python-based phishing analysis platform that performs comprehensive email investigations and generates actionable security reports.
@@ -112,6 +114,8 @@ A Python-based phishing analysis platform that performs comprehensive email inve
 * Security Event Notifications
 
 **Technologies:** Python, FastAPI, SQLite, Gmail API, VirusTotal API, HTML, JavaScript
+
+---
 
 
 ---
